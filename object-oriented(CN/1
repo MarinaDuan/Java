@@ -1,0 +1,19 @@
+class is a specific sort of things in the real world, such as Human
+object also known as instance, such as John
+C++:class Shape
+Java:
+class Shape{
+
+}
+public class T{
+
+   public static void main(String[] args){
+       new Shape();
+        }
+}
+
+Python:
+class Shape:
+  pass
+  
+Shape()
